@@ -11,7 +11,7 @@ required :
 *arduino IDE with esp8266 board manager installed
 *OSC arduino library  https://github.com/CNMAT/OSC
 *offline router (optional if use accesPoint mode)
-*OSC controller (lemur, TouchOSC...) https://liine.net/en/products/lemur/ https://hexler.net/software/touchosc
+*OSC controller (lemur, TouchOSC...) https://liine.net/en/products/lemur/ --- https://hexler.net/software/touchosc
 
 Wiring diagram :
 
