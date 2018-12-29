@@ -1,5 +1,5 @@
 # OSC-Esp12-Axoloti
-get open sound control (osc) message and transmit to Axoloti DSP through serial gpio (PA3/PA2)<br />
+Get open sound control (osc) message on ESP12 and transmit to Axoloti DSP through serial gpio (PA3/PA2)<br />
 Wiring :<br />
 ESP RX <-> TX PA3 Axoloti<br />
 ESP TX <-> RX PA2 Axoloti<br />
@@ -13,5 +13,5 @@ required :<br />
 *offline router (optional if use accesPoint mode) <br />
 *OSC controller (lemur, TouchOSC...) https://liine.net/en/products/lemur/ --- https://hexler.net/software/touchosc<br />
 
-Wiring diagram : />
+Wiring diagram :<br />
 ![alt text](https://github.com/gaeljaton/OSC-Esp12-Axoloti/blob/master/Axoloti_ESP8266.jpg)
