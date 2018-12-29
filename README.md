@@ -5,7 +5,7 @@ ESP RX <-> TX PA3 Axoloti<br />
 ESP TX <-> RX PA2 Axoloti<br />
 ESP 3v3 <-> VDD (any) Axoloti<br />
 ESP Gnd <-> GND (any) Axoloti<br />
-required :/>
+required :<br />
 *ESP 12 board (nodemcu, wemos, ESPino...)<br />
 *Axoloti core board (stand alone digital sound processor) http://www.axoloti.com/ <br />
 *arduino IDE with esp8266 board manager installed <br />
