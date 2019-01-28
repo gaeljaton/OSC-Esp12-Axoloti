@@ -20,4 +20,4 @@ Wiring diagram :<br />
 ° osc.axo is the objet to run in axoloti software to parse serial data from ESP12 <br />
 -> Connect controller to wifi and localPort : 8000, send float OSC messages adresses : /axo1 , /axo2 ... /axo16 <br />
 -> Float 32bit osc message are converted to kRate signal in axoloti (27 bits) give 0-64 floating point. <br />
--> Use other axoloti object to scale your control (uni to bipolar, mult, div, curve...)<br />
+-> Use other axoloti objects to scale your control (uni to bipolar, mult, div, curve...)<br />
