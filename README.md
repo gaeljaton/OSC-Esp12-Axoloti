@@ -1,5 +1,5 @@
 # OSC-Esp12-Axoloti
-Get open sound control (osc) message on ESP12 and transmit to Axoloti DSP through serial gpio (PA3/PA2)<br />
+Get open sound control (osc) message over WIFI on ESP12 and transmit to Axoloti DSP through serial gpio (PA3/PA2)<br />
 Wiring :<br />
 ESP RX <-> TX PA3 Axoloti<br />
 ESP TX <-> RX PA2 Axoloti<br />
